@@ -1,0 +1,14 @@
+.Footer ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 73px;
+}
+
+.Footer ul li {
+  list-style: none;
+}
+
+.Footer {
+  background: #161619;
+  border-radius: 0 0 10px 10px;
+}
