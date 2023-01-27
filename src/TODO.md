@@ -4,3 +4,5 @@ seperate components for:
 -About
 -Interests
 -Footer(social icons)
+
+В кнопку линкедин добавить ссылку на профиль

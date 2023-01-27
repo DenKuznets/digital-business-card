@@ -1,5 +1,12 @@
+import './Interests.css'
+
 export default function Interests() {
   return (
-    <h1>Interests goes here</h1>
-  )
+    <section className="Interests">
+      <h2>Interests</h2>
+      <p>
+        Movie and boardgames lover. Semi-pro volleyball player. Reader. Miniature painter.
+        </p>
+    </section>
+  );
 }
