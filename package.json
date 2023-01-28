@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://denkuznets.github.io/digital-business-card",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -22,6 +23,5 @@
     "eslint-config-react-app": "^7.0.1",
     "gh-pages": "^5.0.0",
     "vite": "^4.0.0"
-  },
-  "homepage": "https://denkuznets.github.io/digital-business-card"
+  }
 }
