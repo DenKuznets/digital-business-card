@@ -17,7 +17,7 @@ export default function Info() {
         <a href="mailto: denis.kyznecov@gmail.com" className="email">
           <img src={maillogoUrl} alt="mail-icon" /> Email
         </a>
-        <a href="www.linkedin.com/in/DenKuznets" className="linkedin">
+        <a href="https://linkedin.com/in/DenKuznets" className="linkedin">
           <img src={lkdnLogoUrl} alt="linkedin-icon" />
           Linkedin
         </a>
